@@ -1,2 +1,4 @@
-# cosmic-requiem
-Showing what I can do
+# hello world
+
+I'm amazing
+ the end
